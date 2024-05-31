@@ -1,7 +1,7 @@
 Meta.DisplayName=Renegade X
 Meta.Description=Renegade X Dedicated Server
 Meta.Arch=x86_64
-Meta.Author=Totem Arts - Made with AMP Config Generator
+Meta.Author=Totem Arts
 Meta.URL=https://totemarts.games/games/renegade-x/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
