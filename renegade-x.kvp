@@ -68,6 +68,7 @@ Console.UserJoinRegex=^Rx:\s+PLAYER☻HWID;☻player☻.*,(?<username>.+)☻hwid
 Console.UserLeaveRegex=^$
 Console.UserChatRegex=^$
 Meta.OS=1
+Meta.AppConfigId=cb68ef37-2ab3-49de-a507-7a2caa298053
 Meta.ConfigManifest=renegade-xconfig.json
 Meta.MetaConfigManifest=renegade-xmetaconfig.json
 Meta.ConfigRoot=renegade-x.kvp
