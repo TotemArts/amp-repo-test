@@ -1,0 +1,7 @@
+[
+    {
+        "ConfigFile": "UDKGame/Config/UDKGame.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]

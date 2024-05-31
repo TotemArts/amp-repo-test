@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Starting Map",
+        "Category": "Server Settings",
+        "Description": "Initial Loaded Map",
+        "Keywords": "starting,map",
+        "FieldName": "InitialMap",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "InitialMap",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "CNC-Field",
+        "Placeholder": "CNC-Field",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
