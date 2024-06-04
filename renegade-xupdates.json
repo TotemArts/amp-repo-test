@@ -14,7 +14,7 @@
         "UpdateStageName": "XD3 Download",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://ta-downloads.totemarts.games/ta-patcher-cli/xdelta3-3.1.0-x86_64.exe",
+        "UpdateSourceData": "https://ta-downloads.totemarts.games/ta-patcher-cli/xdelta3-3.0.11-x86_64.exe",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": false,
@@ -25,10 +25,10 @@
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "Executable",
         "UpdateSourceData": "./renegade-x/tapatcher.exe",
-        "UpdateSourceArgs": "update renegade_x serverfiles -X ./renegade-x/xdelta3-3.1.0-x86_64.exe -L tapatcher.log --progress-interval=0 --progress-mode=plain",
+        "UpdateSourceArgs": "update renegade_x serverfiles -X ./renegade-x/xdelta3-3.0.11-x86_64.exe -L tapatcher.log --progress-interval=0 --progress-mode=plain",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
-        "DeleteAfterExtract": true,
+        "DeleteAfterExtract": false,
         "OneShot": false
     },
     {
